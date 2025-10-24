@@ -16,7 +16,7 @@ Features
 ---
 
 Technologies Used
-- Python 3.13
+- Python 3.12
 - Streamlit
 - OpenCV
 - NumPy
